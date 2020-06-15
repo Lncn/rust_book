@@ -1,4 +1,5 @@
 #[derive(Debug)]
+#[allow(dead_code)]
 enum UsState {
     Alabama,
     Alaska,
